@@ -1,0 +1,12 @@
+[ Pessoa | 1: ]
+Nome: Lázaro
+Idade: 10
+
+[ Pessoa | 2: ]
+Nome: Genifer
+Idade: 13
+
+[ Pessoa | 3: ]
+Nome: Ycaro
+Idade: 12
+
